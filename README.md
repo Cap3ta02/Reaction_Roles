@@ -6,7 +6,8 @@ Tools aggiuntivo per il vostro bot Discord, per la prima parte, ovvero, iniziare
 
 Seguite attentamente il manuale posto scritto di fianco ai righi del codice, e tutto funzionerà alla perfezione
 
-## - Ricorda
-Presta attenzione ai permessi che dai al tuo bot quando lo aggiungi nel server, spunta sulla casella ` Amministratore ` per avere tutti i permessi.
+## - Ricorda:
 
-Nel menù dei ruoli, che trovi nelle impostazioni del tuo server, `ordina il ruolo del bot al primo posto `
+Fai attenzione ai permessi che concedi al tuo bot quando lo aggiungi al server. Seleziona la casella `Amministratore` per garantire tutti i permessi necessari.
+
+Nel menu dei ruoli, situato nelle impostazioni del tuo server, assicurati di posizionare `il ruolo del bot in cima alla lista` per un funzionamento ottimale.
